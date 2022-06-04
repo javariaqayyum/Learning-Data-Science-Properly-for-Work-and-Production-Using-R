@@ -1,4 +1,9 @@
 ## Theoretical Lessons Learned
 
+Very First and basic thing I have learned what is EDA? 
+The actual meaning of EDA like this is Exploratory data analysis. we need to understand and explore dataset bafore performing any sort of preprocess or data cleaning.
+For example if we consider Jobsdata, first thing we did is to explore most important or most relevant variables by making tables getting thier values percentages and making g
+graph visualization.
+
 ## R Programming Lessons Learned
 
