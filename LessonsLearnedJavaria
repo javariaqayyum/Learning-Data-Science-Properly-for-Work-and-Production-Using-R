@@ -9,10 +9,13 @@ I focused on work step by step that the next step must define or in squence of t
 For example before i was working like 
 
 Before
- Read the data set  ----> Directly making bar cahrt of Jobstatus and Job completed ----> making bar chart of ContractorType and JobCompleted
-After 
+Read the data set  ----> Directly making bar cahrt of Jobstatus and Job completed ----> making bar chart of ContractorType and JobCompleted
 
+After 
 Read the data set --> Summary --> shorlisted the variable --> Tables and chart of every shorlisted variables -- > table of every shorlisted variable with Jobcomleted with perc --> Graph representation of each .... 
+
+we need to focus on variables or information which we have early stages when job is comming or assign in machine learning/ deep learning algo otherwise we'll face
+leakage and get wrong accuracy.
 
 ## R Programming Lessons Learned
 
