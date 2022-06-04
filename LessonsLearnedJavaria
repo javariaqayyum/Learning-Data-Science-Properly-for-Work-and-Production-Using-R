@@ -5,5 +5,14 @@ The actual meaning of EDA like this is Exploratory data analysis. we need to und
 For example if we consider Jobsdata, first thing we did is to explore most important or most relevant variables by making tables getting thier values percentages and making g
 graph visualization.
 
+I focused on work step by step that the next step must define or in squence of the previous on other than working randomly.
+For example before i was working like 
+
+Before
+ Read the data set  ----> Directly making bar cahrt of Jobstatus and Job completed ----> making bar chart of ContractorType and JobCompleted
+After 
+
+Read the data set --> Summary --> shorlisted the variable --> Tables and chart of every shorlisted variables -- > table of every shorlisted variable with Jobcomleted with perc --> Graph representation of each .... 
+
 ## R Programming Lessons Learned
 
