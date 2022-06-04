@@ -19,6 +19,8 @@ leakage and get wrong accuracy.
 
 The other important thing i have learned we need to use tidyverse instead of base R. 
 
+Difference between bar chart and histogram. For categorical values we use bar chart and quantitative values we use histogram.
+
 ## R Programming Lessons Learned
 
 how to make tables of visualization and unique values of variables with percentage to understand data. For example
@@ -27,3 +29,4 @@ df %>% group_by("variables name") %>% count()%>% perc()
 Prefer tidyverse pipes instead of Base R.
 
 Make 2*2 tables 
+
