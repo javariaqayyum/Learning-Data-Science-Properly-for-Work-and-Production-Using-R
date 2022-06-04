@@ -23,10 +23,15 @@ Difference between bar chart and histogram. For categorical values we use bar ch
 
 ## R Programming Lessons Learned
 
-how to make tables of visualization and unique values of variables with percentage to understand data. For example
+How to make tables of visualization and unique values of variables with percentage to understand data. For example
 df %>% group_by("variables name") %>% count()%>% perc()
 
 Prefer tidyverse pipes instead of Base R.
 
-Make 2*2 tables 
+Make 2*2 tables. 
+
+If we use same long chunk of code again and again then make function of that and use this function. It improves quality of code.
+for example instead of using 
+data %>% ungroup() %>% mutate(Percentage = (n/sum(n))*100)
+just make function and use perc(data).
 
