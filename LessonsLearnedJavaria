@@ -27,6 +27,9 @@ we have model pridicted values. In first row first column we have values which a
 In last row last column we have values that are actually non-cancer and correctly pridicted by model as non-cancer. The other values are wrongly classified for
 example model pridict that is not have cancer but actually classified as cancer person.
 
+If we need to convert work from one system to another, we need to convert whole project instead of single code file. If we just transfer the code it will make work more messy.
+The main advantage of converting whole project is every thing will work like same as we working on our system or previous system. We just need to install libraries.
+
 ## R Programming Lessons Learned
 
 How to make tables of visualization and unique values of variables with percentage to understand data. For example
